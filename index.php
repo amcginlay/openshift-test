@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Test Container</title>
+    <title>Openshift Test</title>
   </head>
   <body>
     <?php foreach ($_SERVER as $key => $value) { if (in_array($key, $pick)) { ?>
